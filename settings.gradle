@@ -1,0 +1,4 @@
+rootProject.name = 'distance-calculator'
+
+include ":distance"
+include ":performance"
