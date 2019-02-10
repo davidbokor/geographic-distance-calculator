@@ -32,3 +32,6 @@ latitude, it is most useful for very localized distance calculations.
 
 References:
 * https://blog.mapbox.com/fast-geodesic-approximations-with-cheap-ruler-106f229ad016
+
+## Testing
+Performance testing was done using the following data: https://simplemaps.com/data/us-cities
